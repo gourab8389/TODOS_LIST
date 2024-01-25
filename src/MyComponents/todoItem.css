@@ -1,0 +1,16 @@
+/* TodoItem.css */
+
+/* Style for the delete button */
+.deleteButton {
+    background-color: rgb(225, 88, 88);
+    color: white;
+    /* Add any additional styles you want */
+  }
+  
+  /* Additional styles for the TodoItem component */
+  .todoItemContainer {
+    border: 1px solid #b1abab;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
